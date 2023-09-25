@@ -5,13 +5,18 @@
 body {
     background-color:white;
   }
-
+  .navbar{
+    height: 80px;
+    background-color: rgb(3, 137, 170);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
   .navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    overflow: hidden;
-    background-color: rgb(3, 137, 170);
+    overflow: hidden;    
   }
   
   li {
