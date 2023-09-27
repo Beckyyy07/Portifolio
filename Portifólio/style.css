@@ -1,0 +1,95 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: 'Dosis', sans-serif;
+}
+
+.navbar{
+    height: 8vh;
+    background-color: #141414;
+}
+
+.dados{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.me{
+    background-image: url(./assets/wallpaper.jpeg) ;
+    background-size: cover;
+    mix-blend-mode: darken;
+
+
+    height: 92vh;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+
+.me h1{
+    color: whitesmoke;
+    font-family: 'Mooli', sans-serif;
+ 
+    text-shadow: 1px 2px 4px rgba(0,139,139,0.95);
+}
+
+.me h4{
+    color: whitesmoke;
+    text-shadow: 1px 2px 4px rgba(0,139,139,0.95);
+}
+.me img{
+
+    width: 300px;
+    height: 300px;
+    border-radius: 500rem;
+    
+    box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
+    -webkit-box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
+    -moz-box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
+
+
+    border-width: 5px; 
+    border-style: solid;
+    border-color:  rgb(0,139,139);
+ 
+}
+
+
+
+
+.aboutMe{
+    height: 92vh;
+    background-color: #141414;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.about p{
+    width: 50vw;
+    margin-top: 15px;
+   
+}
+
+.about li{
+    list-style: none;
+    
+}
+
+
+
+
+
+
+
+
+
+.footer{
+    height: 8vh;
+    background-color: rgb(0,139,139);
+}
