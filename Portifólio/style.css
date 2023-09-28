@@ -15,6 +15,9 @@
     justify-content: center;
     align-items: center;
 }
+
+
+
 .me{
     background-image: url(./assets/wallpaper.jpeg) ;
     background-size: cover;
@@ -29,28 +32,22 @@
     justify-content: space-evenly;
 
 }
-
 .me h1{
     color: whitesmoke;
     font-family: 'Mooli', sans-serif;
- 
-    text-shadow: 1px 2px 4px rgba(0,139,139,0.95);
 }
-
 .me h4{
-    color: whitesmoke;
-    text-shadow: 1px 2px 4px rgba(0,139,139,0.95);
+    color: whitesmoke;  
 }
 .me img{
 
     width: 300px;
     height: 300px;
     border-radius: 500rem;
-    
+
     box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
     -webkit-box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
     -moz-box-shadow: -1px 2px 39px 45px rgba(1,101,101,0.57);
-
 
     border-width: 5px; 
     border-style: solid;
@@ -62,34 +59,133 @@
 
 
 .aboutMe{
-    height: 92vh;
-    background-color: #141414;
+    height: 98vh;
     color: whitesmoke;
     display: flex;
     flex-direction: column;
     align-items: center;
-
+    justify-content: center;
+    background-color: #141414;
 }
+
+
+
+
 .about p{
-    width: 50vw;
+    width: 60vw;
     margin-top: 15px;
-   
+    padding: 20px;
 }
 
-.about li{
-    list-style: none;
+
+.skillsContainer{
+    display: grid;
+    justify-content: center;
+    width: 100%;
+    padding: 15px;
     
+
+
+}
+
+.skillsContainer h1{
+    text-align: center;
+}
+
+.skills{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding: 15px;
+    gap: 35px;
+    padding-bottom: 20px;
+}
+
+.skills .card{
+    width: 150px;
+    height: 100px;
+    font-size: medium;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 25px;
+    border-width: .5px; 
+    border-style: solid;
+    border-color:  rgb(0,139,139);
+}
+
+
+.skills h1{
+    text-align: center;
 }
 
 
 
 
 
-
-
-
-
-.footer{
-    height: 8vh;
-    background-color: rgb(0,139,139);
+.redes ul{
+    display: inline-flex;
 }
+
+.redes li{
+    list-style: none;
+    padding-right: 25px;
+}
+
+.redes li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+
+
+.projectsContainer{
+    display: flex;
+    width: 100%;
+    padding: 15px;
+    background-color: #2f2f2f;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.projectsContainer img{
+    width: 531.1px;
+    height: 222px;
+    justify-content: center;
+}
+
+.projects{
+    display: grid;
+    justify-items: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    padding: 15px;
+    gap: 35px;
+    padding-bottom: 20px;
+}
+.projects .card{
+    width: 150px;
+    height: 100px;
+
+    display: grid;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 25px;
+    border-width: .5px; 
+    border-style: solid;
+    border-color:  rgb(0,139,139);
+}
+
+.projects .card a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+
+
+
+
