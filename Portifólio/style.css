@@ -21,8 +21,10 @@
      align-items: center;
  }
  
+ 
+ 
  .me{
-     background-image: url(./assets/background.jpg) ;
+     background-image: url(./assets/wallpaper.jpeg) ;
      background-size: cover;
      mix-blend-mode: darken;
  
@@ -58,6 +60,9 @@
   
  }
  
+ 
+ 
+ 
  .aboutMe{
      height: 98vh;
      color: whitesmoke;
@@ -68,17 +73,24 @@
      background-color: #141414;
  }
  
+ 
+ 
+ 
  .about p{
      width: 60vw;
      margin-top: 15px;
      padding: 20px;
  }
  
+ 
  .skillsContainer{
      display: grid;
      justify-content: center;
      width: 100%;
      padding: 15px;
+     
+ 
+ 
  }
  
  .skillsContainer h1{
@@ -114,6 +126,10 @@
      text-align: center;
  }
  
+ 
+ 
+ 
+ 
  .redes ul{
      display: inline-flex;
  }
@@ -128,6 +144,9 @@
      color: whitesmoke;
  }
  
+ 
+ 
+ 
  .projectsContainer{
      display: flex;
      width: 100%;
@@ -140,12 +159,15 @@
  .projectsContainer img{
      width: 531.1px;
      height: 222px;
+
+
  }
 
  .projectsContainer h1{
     text-align: center;
  }
  
+
  .projects .card{
      width: 150px;
      height: 100px;
