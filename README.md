@@ -1,10 +1,9 @@
 ### Hey there! 🙃
-### Olá! Me chamo Rebeka, sejam bem vindos(a)! 
+### Olá! Me chamo Rebeka, sejam bem vindos(a)! 🤍
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rebeka-dias-864608205/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Andersonhlv@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonluna___/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581989083029?text=Ol%C3%A1!%20Esse%20%C3%A9%20meu%20Whatsapp,%20seja%20bem%20vindo.%20Diga%20em%20que%20posso%20ser%20%C3%BAtil!)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](diasrebeka17@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rbeatrixz_/)
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVelos0&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVelos0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
